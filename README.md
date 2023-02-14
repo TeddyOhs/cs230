@@ -1,2 +1,8 @@
 # cs230
 This will include my completed software design document
+// The Gaming Room was my client in this course and they wanted a software application that was an online game with the availability on multiple platforms. Their game was Draw it or Lose it which was a game that required users to guess something based on a picture.
+// I feel that my cohesiveness with the document and my researching abilities are getting better with the more thourough practice. I also believe I did particularly well in the descriptions to my application in development.
+// The process of designing and setting up the idea of what needs to be put in place for a working software application is what allows for the production to initiate.
+// I definitely need to brush up on my UML designs and the symbolic meanings for the graphs. I intend to work on the devising of plans with a UML.
+// I did the interpretation for the user's needs for their desired software program into a dialect. This was made as a means of communication between the client, my peers, and myself. The importance of considering the user's needs is that they are the end consumer, even though we work for a client, the consumer is the ultimate user for the program we create.
+// I approached this software as a blank slate with an idea from a client, I had the thought of organizing and suggesting all aspects of a software application for the design. I would employ a deeper search into the project, with much more technical review with more practice and peers to add value to the document. I will start to incorporate language to converse with other software designers and engineers to improve the language in descriptive documentation.
